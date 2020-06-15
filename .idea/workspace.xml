@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="387216cb-db9a-4d55-8934-001f6e15d59e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bdp9aOKE0zfF75n4IlDdnd7a0K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\farah" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab1Viewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1Viewer" />
+      <module name="farah" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab1Viewer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="387216cb-db9a-4d55-8934-001f6e15d59e" name="Default Changelist" comment="" />
+      <created>1588971673983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588971673983</updated>
+      <workItem from="1588971676860" duration="1615000" />
+      <workItem from="1588979532453" duration="2196000" />
+      <workItem from="1589904130981" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="234" y="4" key="#Project_Structure" timestamp="1588971682410">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="234" y="4" key="#Project_Structure/0.0.1280.690@0.0.1280.690" timestamp="1588971682410" />
+    <state width="1224" height="193" key="GridCell.Tab.0.bottom" timestamp="1588992413552">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1224" height="193" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1588992413552" />
+    <state width="1224" height="193" key="GridCell.Tab.0.center" timestamp="1588992413552">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1224" height="193" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1588992413552" />
+    <state width="1224" height="193" key="GridCell.Tab.0.left" timestamp="1588992413552">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1224" height="193" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1588992413552" />
+    <state width="1224" height="193" key="GridCell.Tab.0.right" timestamp="1588992413552">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1224" height="193" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1588992413552" />
+    <state width="1224" height="193" key="GridCell.Tab.1.bottom" timestamp="1588992413552">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1224" height="193" key="GridCell.Tab.1.bottom/0.0.1280.690@0.0.1280.690" timestamp="1588992413552" />
+    <state width="1224" height="193" key="GridCell.Tab.1.center" timestamp="1588992413552">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1224" height="193" key="GridCell.Tab.1.center/0.0.1280.690@0.0.1280.690" timestamp="1588992413552" />
+    <state width="1224" height="193" key="GridCell.Tab.1.left" timestamp="1588992413552">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1224" height="193" key="GridCell.Tab.1.left/0.0.1280.690@0.0.1280.690" timestamp="1588992413552" />
+    <state width="1224" height="193" key="GridCell.Tab.1.right" timestamp="1588992413552">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1224" height="193" key="GridCell.Tab.1.right/0.0.1280.690@0.0.1280.690" timestamp="1588992413552" />
+    <state x="74" y="0" key="new project wizard" timestamp="1589904164077">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="74" y="0" key="new project wizard/0.0.1280.690@0.0.1280.690" timestamp="1589904164077" />
+  </component>
+</project>
